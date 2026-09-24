@@ -1,0 +1,1 @@
+This was my first AI based project, where I worked on detecting deepfake images using the MesoNet deep learning model. I used Python and TensorFlow/Keras for coding and trained and tested the model with an image dataset. I also used YouTube and Google to learn and understand the project.
